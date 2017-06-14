@@ -42,7 +42,7 @@ If you want to enable persistence whilst running in live mode, then set how much
 
 The screen should look something like this.
 
-![](https://kororaproject.org/img/doc/liveusb/liveusb-creator.jpg)
+![](img/liveusb-creator.jpg)
 
 Now hit the Create Live USB button to begin. The log will tell you when it has been completed, and should look something like this.
 
@@ -119,7 +119,7 @@ To use Fedora Live USB Creator you must have a FAT32 formatted USB stick of grea
 
 Live USB Creator needs to be run as an administrator, so right click on the icon and select _Run as administrator_, then agree when prompted.
 
-![](https://kororaproject.org/img/doc/liveusb/liveusb-creator-windows-admin.jpg)
+![](img/liveusb-creator-windows-admin.jpg)
 
 Under _Use existing Live CD_, click the Browse button and select the Korora ISO from wherever you downloaded it to (such as your _Downloads_ directory in your home drive).
 
@@ -129,7 +129,7 @@ If you want to enable persistence whilst running in live mode, then set how much
 
 The screen should look something like this.
 
-![](https://kororaproject.org/img/doc/liveusb/liveusb-creator-windows.jpg)
+![](img/liveusb-creator-windows.jpg)
 
 Now hit the _Create Live USB_ button to begin. The log will tell you when it has been completed, and should look something like this.
 

@@ -14,4 +14,8 @@
 + [Using Korora](/Using-Korora.md)
 + [Getting help with Korora](/Getting-Help-With-Korora.md)
    + [Fpaste](/Fpaste.md)
+   + [Troubleshooting Tips](/Troubleshooting-Tips.md)
+   + [Using Engage](/Using-Engage.md)
++ [Tips and Tricks](/Tips-and-Tricks.md)
+ + [Bootloader](/Bootloader.md)
 + [Working with Archives](/Working-With-Archives)
