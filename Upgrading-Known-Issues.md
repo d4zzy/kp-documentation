@@ -46,4 +46,4 @@ Due to the way Xfce settings need to be stored there are an adjustment that need
 sudo dnf install arc-theme
 ```
 
-If you experience any issues not listed here please let us know on irc or on Engage.
+If you experience any issues not listed here please let us know on [irc](https://kororaproject.org/support/engage) or on [Engage](https://kororaproject.org/support/engage).
